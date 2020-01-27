@@ -1,4 +1,4 @@
-# how-to-start-React360
+# Iniciando no React 360
 
 Slides sobre React 360
 
